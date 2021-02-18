@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>c-021</code>
+			<reason>Since dialog is set in italics per Joyce's prose style, we have to keep the whole phrase in italics to show the quotation.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-5.xhtml">
 		<ignore>
 			<code>t-045</code>

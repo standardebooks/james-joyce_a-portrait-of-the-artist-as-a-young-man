@@ -2,6 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+q{
+	font-style: italic;
+}
+
 ul{
 	list-style: none;
 	padding: 0;
@@ -10,10 +14,6 @@ ul{
 footer{
 	margin-top: 1em;
 	text-align: right;
-}
-
-em i{
-	font-style: normal;
 }
 
 blockquote[epub|type~="z3998:diary-entry"]{
