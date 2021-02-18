@@ -114,3 +114,7 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 /* End full-page epigraphs */
+
+#chapter-1 blockquote:nth-of-type(6) p{
+	text-indent: 0;
+}
