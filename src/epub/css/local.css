@@ -41,8 +41,8 @@ blockquote[epub|type~="z3998:diary-entry"] p:first-child{
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:song"] p > span + br,
@@ -55,8 +55,8 @@ blockquote[epub|type~="z3998:diary-entry"] p:first-child{
 }
 
 p span.i1{
-	text-indent: -1em;
 	padding-left: 2em;
+	text-indent: -1em;
 }
 
 blockquote[xml|lang]{
@@ -115,6 +115,11 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-#chapter-1 blockquote:nth-of-type(6) p{
+#chapter-1 blockquote:nth-of-type(6) p,
+#chapter-3 blockquote p + p{
 	text-indent: 0;
+}
+
+blockquote{
+	font-style: italic;
 }

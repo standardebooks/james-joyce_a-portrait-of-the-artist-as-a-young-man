@@ -52,6 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4217</dc:source>
 		<dc:source>https://books.google.com/books?id=v6YWAAAAYAAJ</dc:source>
+		<meta property="se:production-notes">Many compound words that normally would take a dash or space have been left as-is as part of Joyce's prose style. The page scans are for an earlier edition but this text has many corrections from the 1964 corrected edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man</meta>
