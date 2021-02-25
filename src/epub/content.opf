@@ -45,14 +45,14 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100472</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The autobiographical story of Joyce’s youth in Ireland and his escaping the country’s conformity and mediocrity to blossom as a writer on the continent.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4217</dc:source>
 		<dc:source>https://books.google.com/books?id=v6YWAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Many compound words that normally would take a dash or space have been left as-is as part of Joyce's prose style. The page scans are for an earlier edition but this text has many corrections from the 1964 corrected edition.</meta>
+		<meta property="se:production-notes">Joyce's unique modernist style of dialog means that em dashes indicate dialog, and there are no quotation marks anywhere in the work. Italics indicate quotations. We preserve this unique prose style, and because italics indicates quotation, we can't italicize some things we normally would as part of the style guide, like books; and some things that would be quoted are italicized, like song titles. Additionally, many compound words that normally would take a dash or space, and some words that would normally be capitalized like `catholic` or `jesuit` have been left as-is as part of Joyce's prose style. The page scans are for an earlier edition but the transcription has many corrections from the 1964 corrected edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man</meta>
