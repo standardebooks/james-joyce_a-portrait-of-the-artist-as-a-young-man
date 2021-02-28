@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/james-joyce/a-portrait-of-the-artist-as-a-young-man</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-02-28T19:55:19Z</dc:date>
+		<meta property="dcterms:modified">2021-02-28T19:55:19Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -57,8 +57,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4217</dc:source>
 		<dc:source>https://books.google.com/books?id=v6YWAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Joyce's unique modernist style of dialog means that em dashes indicate dialog, and there are no quotation marks anywhere in the work. Italics indicate quotations. We preserve this unique prose style, and because italics indicates quotation, we can't italicize some things we normally would as part of the style guide, like books; and some things that would be quoted are italicized, like song titles. Additionally, many compound words that normally would take a dash or space, and some words that would normally be capitalized like `catholic` or `jesuit` have been left as-is as part of Joyce's prose style. The page scans are for an earlier edition but the transcription has many corrections from the 1964 corrected edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">85550</meta>
+		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-joyce_a-portrait-of-the-artist-as-a-young-man</meta>
 		<dc:creator id="author">James Joyce</dc:creator>
