@@ -8,7 +8,7 @@
 	</file>
 	<file path="chapter-5.xhtml">
 		<ignore>
-			<code>t-045</code>
+			<code>s-081</code>
 			<reason>Dialog is correct per Joyce's prose style.</reason>
 		</ignore>
 	</file>
