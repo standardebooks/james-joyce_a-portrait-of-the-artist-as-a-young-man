@@ -46,6 +46,8 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007100472</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">The autobiographical story of Joyce’s youth in Ireland and his escaping the country’s conformity and mediocrity to blossom as a writer on the continent.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;A Portrait of the Artist as a Young Man&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;Joyce’s&lt;/a&gt; first novel, published after the previous success of his short story collection &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/james-joyce/dubliners"&gt;Dubliners&lt;/a&gt;&lt;/i&gt;. The novel is written in a modernist style, with dialog and narration blending together in a kind of stream-of-consciousness meant to invoke the blurriness of memory.&lt;/p&gt;
