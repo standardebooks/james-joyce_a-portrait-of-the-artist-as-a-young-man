@@ -62,7 +62,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/4217</dc:source>
 		<dc:source>https://books.google.com/books?id=v6YWAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">Joyce's unique modernist style of dialog means that em dashes indicate dialog, and there are no quotation marks anywhere in the work. Italics indicate quotations. We preserve this unique prose style, and because italics indicates quotation, we can't italicize some things we normally would as part of the style guide, like books; and some things that would be quoted are italicized, like song titles. Additionally, many compound words that normally would take a dash or space, and some words that would normally be capitalized like `catholic` or `jesuit` have been left as-is as part of Joyce's prose style. The page scans are for an earlier edition but the transcription has many corrections from the 1964 corrected edition.</meta>
-		<meta property="se:word-count">85550</meta>
+		<meta property="se:word-count">84818</meta>
 		<meta property="se:reading-ease.flesch">71.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-joyce_a-portrait-of-the-artist-as-a-young-man</meta>
