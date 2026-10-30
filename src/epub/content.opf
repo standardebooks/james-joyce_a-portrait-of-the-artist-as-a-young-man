@@ -87,7 +87,7 @@
 		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Menno de Leeuw</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">De Leeuw, Menno</meta>
+		<meta property="file-as" refines="#transcriber-3">de Leeuw, Menno</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
